@@ -1,0 +1,4 @@
+reference/
+app/node_modules/
+app/.svelte-kit/
+app/build/
